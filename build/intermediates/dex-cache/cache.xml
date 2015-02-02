@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="D:\A boogieboard\boogie-board-sync-android-sdk-master\samples\build\intermediates\pre-dexed\debug\guava-16.0.1-c919727c4205dc7ff164383938223b9d6ef922e4.jar"
+        jar="C:\Users\Rick\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\16.0.1\5fa98cd1a63c99a44dd8d3b77e4762b066a5d0c5\guava-16.0.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="5fa98cd1a63c99a44dd8d3b77e4762b066a5d0c5"/>
+    <item
+        dex="D:\A boogieboard\boogie-board-sync-android-sdk-master\samples\build\intermediates\pre-dexed\debug\classes-2ce974ba6aa7f1a97a5679a26bd3befd12ab52de.jar"
+        jar="D:\A boogieboard\boogie-board-sync-android-sdk-master\samples\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
+    <item
+        dex="D:\A boogieboard\boogie-board-sync-android-sdk-master\samples\build\intermediates\pre-dexed\debug\classes-3d51918912b33701ef4c6adeda42ab9c6f2fa60b.jar"
+        jar="D:\A boogieboard\boogie-board-sync-android-sdk-master\samples\build\intermediates\exploded-aar\boogie-board-sync-android-sdk-master\library\unspecified\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="0facc2b2a7917ff703aeb683de5d2325ac30468a"/>
+    <item
+        dex="D:\A boogieboard\boogie-board-sync-android-sdk-master\samples\build\intermediates\pre-dexed\debug\support-v4-19.1.0-bbc0aa20dd10342efb9f3382f67111a22c0167b7.jar"
+        jar="C:\Users\Rick\AppData\Local\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+
+</pre-dex-items>

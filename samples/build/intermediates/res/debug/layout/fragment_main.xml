@@ -1,0 +1,44 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.improvelectronics.sync.samples.MainActivity$PlaceholderFragment"
+    android:gravity="center"
+    android:weightSum="1"
+    android:background="#ffff3cfc">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Doodle Disorder"
+        android:id="@+id/textView"
+        android:textColor="@android:color/white"
+        android:textSize="34dp"
+        android:typeface="monospace" />
+
+    <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Doodle"
+            android:id="@+id/streamingButton"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dip"
+        android:textSize="25dp"
+        android:typeface="monospace"
+        android:textColor="@android:color/white"
+        android:singleLine="true" />
+
+    <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="About"
+            android:id="@+id/fileBrowsingButton"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="10dip"
+        android:typeface="monospace"
+        android:visibility="gone"
+        android:textColor="@android:color/white"
+        android:textSize="25dp" />
+</LinearLayout>
+<!-- From: file:/D:/A%20boogieboard/boogie-board-sync-android-sdk-master/samples/src/main/res/layout/fragment_main.xml -->

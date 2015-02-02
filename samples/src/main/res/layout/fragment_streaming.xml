@@ -1,0 +1,17 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.improvelectronics.sync.samples.StreamingActivity$PlaceholderFragment"
+    android:gravity="center"
+    android:weightSum="1">
+
+    <view
+        android:layout_width="match_parent"
+        android:layout_height="530dp"
+        class="com.improvelectronics.sync.android.samples.CurveDisplay"
+        android:id="@+id/curves"
+        android:layout_gravity="center_horizontal" />
+
+</LinearLayout>
